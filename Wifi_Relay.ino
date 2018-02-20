@@ -15,8 +15,8 @@
 
 #include <ESP8266WiFi.h>
  
-const char* ssid = "dlink-E074";
-const char* password = "ejbba23597";
+const char* ssid = "ssid";
+const char* password = "password";
  
 int ledPin = D4;
 WiFiServer server(80);
